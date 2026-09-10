@@ -82,7 +82,7 @@ h1{
                          Larger screen styles
 ****************************************************************************************/
 
-@media screen and (min-width:76px){
+@media screen and (min-width:760px){
     /* this media query will only take effect above 768px screen width */
     h1{
         font-size: 4em;
